@@ -2,4 +2,20 @@
   list-style: none; 
   padding-left: 0;
     
+} 
+
+.js-btn{ 
+margin-top: 10px;
+} 
+.dark{ 
+  color: blue;
+  background-color: gold;
+} 
+.js-butten{ 
+  margin-top: 30px;
+  padding: 5px 20px; 
+  width: 200px; 
+  background-color: aqua; 
+  color: red;
+  border-radius: 10px;
 }
